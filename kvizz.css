@@ -1,0 +1,123 @@
+h1 {
+    text-align: center;
+    margin-top: 10%;
+    
+}
+
+
+span {
+    color: red;
+}
+
+.mis {
+    text-align: center;
+    margin-bottom: 8px;
+    
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+button{
+    width: 80px;
+    height: 40px;
+    background-color: darkred;
+    color: aliceblue;
+    font-size: 25px;
+    border-color: aliceblue;
+
+}
+.book{
+    margin-left: 20%;
+    margin-top: 4%;
+}
+.b{
+    width: 150px;
+    height: 70px;
+    background-color: yellow;
+    color: black;
+    border-radius: 20px;
+    font-size: 25px;
+    margin: 5px 0px 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid white;
+    
+    
+    
+    
+ 
+}
+.timer{
+    
+    background-color: white;
+    border-radius: 2px;
+    margin: 75px 50px 90px 20px;
+    font-size: 25px;
+    
+    
+    
+    
+    
+
+}
+.ff{
+    display: flex;
+    //justify-content: center;
+    
+}
+p{
+   margin: auto;
+   font-size: 25px;
+   text-align: center;
+}
+.buy {
+    display: flex;
+    
+    width: 150px;
+    height: 70px;
+    background-color: rgb(0, 218, 55);
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+    margin: 47px 0px 0px 120px;
+    opacity: 0;
+    border: 3px solid white;
+    
+}
+.cost {
+    text-align: start;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    
+}
+body{
+
+    
+    
+}
+body::after{
+    content: "";
+    background: url('https://images.vertigo.com.ua/2020/09/evangelion-main-1280x630.jpg');
+    /* background-size:cover; */
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    
+
+}
+
+.w {
+    background-color: white;
+    color: black;
+    
+    
+}
