@@ -16,6 +16,7 @@ let t = 300
 function color_green(b){
     b.style.background = "LawnGreen"
 }
+//колір червоний
 function color_darkred(b){
     b.style.background = "darkred"
 }
