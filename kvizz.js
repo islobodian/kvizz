@@ -7,11 +7,12 @@ let but5 = document.querySelector(".baton5")
 let timer = document.querySelector(".timer")
 let buy = document.querySelector(".buy")
 
+
 let t = 300
 
 
  
-
+//колір забарвлення кнопки - зелений
 function color_green(b){
     b.style.background = "LawnGreen"
 }
